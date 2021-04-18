@@ -27,9 +27,9 @@ https://user-images.githubusercontent.com/40369168/115134092-f71ee600-a02a-11eb-
 - __For educational purpose only, not for any other illegal activities__ ✅
 - __Entire code is in python only. No need to install any other dependencies__ 🐍
 - __Website is mine only. You can reach out to me for further queries on this__ :shipit:
+- __Filename of login credentials is uploaded as login.txt__ 📃
 
 # One bug pointed out while running it 🐛
 
 > The last credentials is always true whether it is valid or not, so try to include 0:0 into the last credential for successful recovery 
   
-
