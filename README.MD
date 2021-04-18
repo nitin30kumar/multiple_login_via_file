@@ -10,7 +10,7 @@
 # Language and modules used 🎨
 > Python =<3.6  
 > Selenium  
-  ''' pip install selenium'''
+  '''pip install selenium'''
 
 # Uses 💹
 - Hacking 🃏
