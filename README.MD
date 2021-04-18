@@ -9,22 +9,20 @@
 
 # Language and modules used 🎨
 > Python =<3.6  
-> selenium  
+> Selenium  
   ''' pip install selenium'''
 
-# Uses :
+# Uses 💹
 - Hacking 🃏
-  '''Can guess number of passwords and put them into a file 
-  and try to run for a valid credential to break into someone's 
-  account'''
+  '''Can guess number of passwords and put them into a file and try to run for a valid credential to break into someone's account'''
   
 - Forgot password 🚩
-  '''Guess what the main reason of lots of new accounts are that you lost the password. What i you can recover them without going through the long process of forgot password links. Just paste the username:password you remember and rest will be done by this script'''
+  '''Guess what, the main reason of lots of new accounts are that you lost the password. What i you can recover them without going through the long process of forgot password links. Just paste the username:password you remember and rest will be done by this script'''
     
 # Actual working is here 📹
 https://user-images.githubusercontent.com/40369168/115134092-f71ee600-a02a-11eb-9c94-f6929be8df63.mp4
 
-# Impotant points 📝
+# Important points 📝
 
 - __For educational purpose only, not for any other illegal activities__ ✅
 - __Entire code is in python only. No need to install any other dependencies__ 🐍
