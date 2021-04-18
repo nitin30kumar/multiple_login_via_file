@@ -22,7 +22,7 @@
   '''Guess what the main reason of lots of new accounts are that you lost the password. What i you can recover them without going through the long process of forgot password links. Just paste the username:password you remember and rest will be done by this script'''
     
 # Actual working is here 📹
-![login](https://user-images.githubusercontent.com/40369168/115134092-f71ee600-a02a-11eb-9c94-f6929be8df63.mp4)
+https://user-images.githubusercontent.com/40369168/115134092-f71ee600-a02a-11eb-9c94-f6929be8df63.mp4
 
 # Impotant points 📝
 
